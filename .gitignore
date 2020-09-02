@@ -1,0 +1,4 @@
+.hg/*
+.hgignore
+WindowsFormsApplication1/bin/*
+WindowsFormsApplication1/obj/*
